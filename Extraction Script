@@ -1,5 +1,5 @@
 # Define the new file path
-new_file_path = "/mnt/data/AclR-monomer_consurf_grades.txt"
+new_file_path = "/AclR-monomer_consurf_grades.txt"
 
 # Read the file while skipping the first 27 lines
 with open(new_file_path, "r") as file:
