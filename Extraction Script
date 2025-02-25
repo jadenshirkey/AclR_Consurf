@@ -1,3 +1,6 @@
+pip install pandas
+python extraction_script.py
+
 # Define the new file path
 new_file_path = "/AclR-monomer_consurf_grades.txt"
 
